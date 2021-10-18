@@ -1,6 +1,6 @@
 # Harness Job Manager
 
-> Simple JOB Manager
+> Simple JOB Manager (Python/Django, React.js)
 
 ## Quick Start
 
